@@ -22,4 +22,17 @@ InvoiceMe is a simple, all-in-one platform that connects contractors with client
 ## Additional Details
 - The full lifecycle of the work-to-payment process is tracked in the system
 - Two main relationships occur: Direct contractor to client and contractor to vendor to client.
-- 
+- Clients can have multiple vendors and contractors
+- Vendors can have multiple contractors
+- Contractors can have multiple clients and vendors
+- Invoices and timesheets can be disputed by clients and vendors
+- Invoices and timesheets can be approved by clients and vendors
+- Invoices and timesheets can be paid by clients and vendors
+- Invoices and timesheets can be rejected by clients and vendors
+- Invoices and timesheets can be edited by contractors and vendors
+- Invoices and timesheets can be deleted by contractors and vendors
+- Invoices and timesheets can be viewed by clients, contractors, and vendors
+- Invoices and timesheets can be searched by clients, contractors, and vendors
+- Invoices and timesheets can be filtered by clients, contractors, and vendors
+- Invoices and timesheets can be sorted by clients, contractors, and vendors
+- Invoices and timesheets can be exported by clients, contractors, and vendors
